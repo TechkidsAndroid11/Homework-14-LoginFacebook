@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">HWLoginFacebook</string>
+
+    <string name="facebook_app_id">801440336682697</string>
+    <string name="fb_login_protocol_scheme">fb801440336682697</string>
+</resources>
